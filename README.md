@@ -46,13 +46,13 @@ Stochastic Linear Programming (SLP)
 
 
 　　Min cTx
-  
+
 　　s.t  Ax ≥ b
-  
+
  　　　　Tx ≥ r
 
 　　　　　x ≥ 0
-     
+
     where , 
     
 
