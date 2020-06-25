@@ -1,11 +1,9 @@
 # Stochastic Programming(SP)-Record-
 
-
-<PoLab>
+PoLab
 2020.06.25
   
 SP簡介 (Background)
-
 　　
 　　隨機規劃(Stochastic Programming，縮寫SP)是處理數據帶有隨機性的一類數學規劃，它與確定性數學規劃最大的不同在於其計數中引進了隨機變數，即可能存在機率分佈，這使得隨機規劃比起確定性數學規劃更適合於實際問題。其在廣泛應用上，包含了：製造、運輸、電訊、衛生保健、金融等之不同領域。
 
