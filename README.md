@@ -50,7 +50,7 @@ Stochastic Linear Programming (SLP)
 　　s.t  Ax ≥ b
   
  　　　　Tx ≥ r
- 　
+
 　　　　　x ≥ 0
      
     where , 
