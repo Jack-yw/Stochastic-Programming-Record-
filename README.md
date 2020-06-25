@@ -129,6 +129,7 @@ Solution method of SP：
 
 
 參考來源：
+
 (1) [John_R._Birge,_François_Louveaux]_Introduction to Stochastic Programming_2nd
 
 (2) Course：ORA_08_SP_2020
