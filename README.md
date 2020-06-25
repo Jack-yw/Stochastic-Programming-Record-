@@ -53,7 +53,7 @@ Stochastic Linear Programming (SLP)
 
 　　　　x ≥ 0
 
-    where , 
+where , 
 
 x is the decision variable vector
 
@@ -66,4 +66,8 @@ b is the RHS vector
 T is the technology matrix
 
 r is the RHS vector
+
+
+故隨機規劃為，當假設(T，r)為隨機變數，即(T，r)真實值為未知，且滿足一已知離散型機率分佈狀況下．
+
 
