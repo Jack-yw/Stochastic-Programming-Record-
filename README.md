@@ -43,4 +43,12 @@ Optimal Stochastic Control (最優隨機控制)
 Stochastic Linear Programming (SLP)
 
 　　因線性規劃形式如下：
+　　
+　　Min cTx
+　　s.t  Ax ≥ b
+ 　　　　Tx ≥ r
+ 　　　　x ≥ 0
+     
+    where , 
+    
 
