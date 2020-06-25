@@ -49,9 +49,9 @@ Stochastic Linear Programming (SLP)
 
 　　s.t  Ax ≥ b
 
- 　　　　Tx ≥ r
+ 　　　Tx ≥ r
 
-　　　　　x ≥ 0
+　　　　x ≥ 0
 
     where , 
     
