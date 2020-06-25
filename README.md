@@ -38,7 +38,7 @@ Statistical Decision Theory
 
 Optimal Stochastic Control (最優隨機控制)
 
-　　隨機控制模型通常類似隨機規劃模型。差異主要是由於問題的維度，強調隨機控制的控制規則之重視以及對隨機控制的約束性假設之限制（隨機規劃通常具有更高的維度）。
+　　隨機控制模型通常類似隨機規劃模型。差異主要是在於問題的維度，強調隨機控制的控制規則之重視以及對隨機控制的約束性假設之限制（隨機規劃通常具有更高的維度）。
 
 Stochastic Linear Programming (SLP)
 
@@ -49,10 +49,16 @@ Stochastic Linear Programming (SLP)
 
 　　s.t  Ax ≥ b
 
- 　　　Tx ≥ r
+　 　　　Tx ≥ r
 
 　　　　x ≥ 0
 
     where , 
     
+x is the decision variable vector
+c is the cost vector
+A is the constraint matrix
+b is the RHS vector
+T is the technology matrix
+r is the RHS vector
 
