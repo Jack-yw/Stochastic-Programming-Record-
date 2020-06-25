@@ -87,4 +87,10 @@ Two-stage recourse model
 兩階段規劃模型 with Fixed Recourse：
 
 
+Min z = cTx + Eζ [min q(w)Ty(w)]
+s.t Ax = b
+T(w)x +Wy(w)=h(w)
+x ≥ 0 , y(w) ≥ 0
+
+
 
