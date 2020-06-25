@@ -54,11 +54,16 @@ Stochastic Linear Programming (SLP)
 　　　　x ≥ 0
 
     where , 
-    
+
 x is the decision variable vector
+
 c is the cost vector
+
 A is the constraint matrix
+
 b is the RHS vector
+
 T is the technology matrix
+
 r is the RHS vector
 
